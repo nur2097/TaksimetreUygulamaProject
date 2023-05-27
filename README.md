@@ -1,1 +1,1 @@
-# patika-taksimetre
+# java-pratik-taksimetre
